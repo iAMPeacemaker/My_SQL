@@ -4,7 +4,7 @@
 
 ***- Клонируйте репозиторий:***
 ```
-git clone git@github.com:nikoeremeev/MySQL_scripts.git
+git clone git@github.com:iAMPeacemaker/My_SQL.git
 ```
 
 ---
